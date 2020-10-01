@@ -1,2 +1,2 @@
 # websiteku
-Django
+Django Website
